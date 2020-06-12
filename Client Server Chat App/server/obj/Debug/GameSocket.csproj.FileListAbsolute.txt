@@ -1,0 +1,71 @@
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\bin\Debug\GameSocket.exe
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\bin\Debug\GameSocket.pdb
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.frm_Server.resources
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.exe
+C:\Users\hieu\Documents\Visual Studio 2015\Projects\GameSocket\GameSocket\obj\Debug\GameSocket.pdb
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\bin\Debug\GameSocket.exe
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\bin\Debug\GameSocket.pdb
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.exe
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.pdb
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+D:\Code project dropbox\Dropbox\Code Project\GameSocket\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+F:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.exe
+F:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.pdb
+F:\SERVER_GameSocket\GameSocket\bin\Debug\GameSocket.exe
+F:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+F:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+F:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+F:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+F:\SERVER_GameSocket\GameSocket\bin\Debug\GameSocket.pdb
+E:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.exe
+E:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.pdb
+E:\SERVER_GameSocket\GameSocket\bin\Debug\GameSocket.exe
+E:\SERVER_GameSocket\GameSocket\bin\Debug\GameSocket.pdb
+E:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+E:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+E:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+E:\SERVER_GameSocket\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+C:\Users\labstaff\Desktop\Final Project DCN\GameSocket\bin\Debug\GameSocket.exe
+C:\Users\labstaff\Desktop\Final Project DCN\GameSocket\bin\Debug\GameSocket.pdb
+C:\Users\labstaff\Desktop\Final Project DCN\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+C:\Users\labstaff\Desktop\Final Project DCN\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+C:\Users\labstaff\Desktop\Final Project DCN\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+C:\Users\labstaff\Desktop\Final Project DCN\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+C:\Users\labstaff\Desktop\Final Project DCN\GameSocket\obj\Debug\GameSocket.exe
+C:\Users\labstaff\Desktop\Final Project DCN\GameSocket\obj\Debug\GameSocket.pdb
+E:\Final Project DCN\GameSocket\obj\Debug\GameSocket.exe
+E:\Final Project DCN\GameSocket\obj\Debug\GameSocket.pdb
+E:\Final Project DCN\GameSocket\bin\Debug\GameSocket.exe
+E:\Final Project DCN\GameSocket\bin\Debug\GameSocket.pdb
+E:\Final Project DCN\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+E:\Final Project DCN\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+E:\Final Project DCN\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+E:\Final Project DCN\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+D:\Final Project DCN\GameSocket\obj\Debug\GameSocket.exe
+D:\Final Project DCN\GameSocket\obj\Debug\GameSocket.pdb
+D:\Final Project DCN\GameSocket\bin\Debug\GameSocket.exe
+D:\Final Project DCN\GameSocket\bin\Debug\GameSocket.pdb
+D:\Final Project DCN\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+D:\Final Project DCN\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+D:\Final Project DCN\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+D:\Final Project DCN\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+E:\D drive\Final Project DCN\GameSocket\obj\Debug\GameSocket.exe
+E:\D drive\Final Project DCN\GameSocket\obj\Debug\GameSocket.pdb
+E:\D drive\Final Project DCN\GameSocket\bin\Debug\GameSocket.exe
+E:\D drive\Final Project DCN\GameSocket\bin\Debug\GameSocket.pdb
+E:\D drive\Final Project DCN\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+E:\D drive\Final Project DCN\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+E:\D drive\Final Project DCN\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+E:\D drive\Final Project DCN\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
+C:\Users\i5\Desktop\Projetc\GameSocket\obj\Debug\GameSocket.exe
+C:\Users\i5\Desktop\Projetc\GameSocket\obj\Debug\GameSocket.pdb
+C:\Users\i5\Desktop\Projetc\GameSocket\bin\Debug\GameSocket.exe
+C:\Users\i5\Desktop\Projetc\GameSocket\bin\Debug\GameSocket.pdb
+C:\Users\i5\Desktop\Projetc\GameSocket\obj\Debug\GameSocket.csprojResolveAssemblyReference.cache
+C:\Users\i5\Desktop\Projetc\GameSocket\obj\Debug\GameSocket.SocketT2h.resources
+C:\Users\i5\Desktop\Projetc\GameSocket\obj\Debug\GameSocket.Properties.Resources.resources
+C:\Users\i5\Desktop\Projetc\GameSocket\obj\Debug\GameSocket.csproj.GenerateResource.Cache
