@@ -1,5 +1,5 @@
 # Client/Server Chat Application
-##Introduction:
+## Introduction:
     Network is to connect two or more computers
 together with the ability to communicate with each other.
 Networking is to link two or more computing devices
@@ -14,8 +14,8 @@ The other feature in this app is screen sharing in which
 two clients with known ip on same network can share
 their screen and see their screen.
 
-##Features
-###1.Messaging:
+## Features
+### 1.Messaging:
 Administrator can communicate with the remote
 systems that are connected With in the local network
 administrator can communicate publicly or privately.
@@ -31,7 +31,7 @@ other text data that will allow the two chatting
 parties to retrieve the same data base record by
 sending a primary key or keys from one to the other.
 
-###2.Screen Sharing:
+### 2.Screen Sharing:
 Desktop Sharing is a server application that
 allows to share current session with a user on
 another machine, who can use a client to view or
@@ -42,5 +42,5 @@ operate our office computer from our home or
 viceversa But in this application you can only see other client
 screen .
 
-##Server:
+## Server:
 ![]images/server.PNG
