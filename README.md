@@ -1,6 +1,6 @@
 # Client/Server Chat Application
 ## Introduction:
-    Network is to connect two or more computers
+Network is to connect two or more computers
 together with the ability to communicate with each other.
 Networking is to link two or more computing devices
 together for the purpose of sharing data.
